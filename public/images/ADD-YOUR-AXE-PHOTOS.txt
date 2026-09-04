@@ -1,0 +1,11 @@
+VIKING AXE & SHIELD — ADD YOUR PHOTOS HERE
+===========================================
+
+Drop your two photos into this folder with EXACTLY these names:
+
+  axeSet1.jpg   →  the crossed axes over the round shield  (main photo)
+  axeSet2.jpg   →  the forge bench with twisted guard & fittings
+
+That's all. The product page, story, and category cards already point
+at these names — your photos appear everywhere the moment the files
+are here. Until then, placeholder shots show automatically.
