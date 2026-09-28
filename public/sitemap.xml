@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  STATIC SITEMAP — replace https://YOUR-DOMAIN with your real site URL.
+  Better: open the Admin Portal → SEO tab → "Generate" to rebuild this file
+  from your live listings, then re-upload it (or submit the XML directly in
+  Google Search Console).
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN/</loc><priority>1.0</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/categories</loc><priority>0.6</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/category/Pocket%20Knives</loc><priority>0.7</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/category/Chef%20Knives</loc><priority>0.7</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/category/Folding%20Knives</loc><priority>0.7</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/category/Viking%20Knives</loc><priority>0.7</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/category/Skinner%20Knives</loc><priority>0.7</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/category/Sword</loc><priority>0.7</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/category/Viking%20Axe</loc><priority>0.7</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/custom</loc><priority>0.6</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/product/handmade-sword</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/product/viking-axe-set</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/product/skinner-knife</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/product/viking-seax</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/#/product/knife-heritage</loc><priority>0.8</priority></url>
+</urlset>
