@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Structured data (products, org, FAQs) is embedded as JSON-LD on the page.
-Sitemap: /sitemap.xml
